@@ -68,7 +68,7 @@ Como analista de datos en una gran tienda online, en colaboracion con el departa
 
 - Hay un aumento de ingreso promedio de los usuarios B sobre los usuarios A.
 
-[Ver Proyecto] https://github.com/algiraldo92/DataAnalytics/blob/main/Projects/Marketing_Test_AB.ipynb
+[Ver Proyecto](https://github.com/algiraldo92/DataAnalytics/blob/main/Projects/Marketing_Test_AB.ipynb)
 ---
 ---
 
