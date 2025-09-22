@@ -21,6 +21,7 @@ En el caso de un gimnasio, tiene sentido decir que un/a cliente se ha ido si no 
 Con el fin de combatir la cancelación, Model Fitness ha digitalizado varios de sus perfiles de clientes. Tu tarea consiste en analizarlos y elaborar una estrategia de retención de clientes.
 
 [Ver Proyecto](https://github.com/algiraldo92/DataAnalytics/blob/main/Projects/Clusters.ipynb)
+
 ---
 ---
 
@@ -41,6 +42,7 @@ Lo que vas a investigar:
 ¿Cuánto dinero traen? (LTV)
 
 [Ver Proyecto](https://github.com/algiraldo92/DataAnalytics/blob/main/Projects/Marketing_Cohortes.ipynb)
+
 ---
 ---
 
@@ -69,6 +71,7 @@ Como analista de datos en una gran tienda online, en colaboracion con el departa
 - Hay un aumento de ingreso promedio de los usuarios B sobre los usuarios A.
 
 [Ver Proyecto](https://github.com/algiraldo92/DataAnalytics/blob/main/Projects/Marketing_Test_AB.ipynb)
+
 ---
 ---
 
@@ -89,5 +92,3 @@ Explicaremos:
 - Qué criterio utilizamos para probar las hipótesis y por qué.
 
 [Ver Proyecto](https://github.com/algiraldo92/DataAnalytics/blob/main/Projects/Mega_line.ipynb)
-
-
