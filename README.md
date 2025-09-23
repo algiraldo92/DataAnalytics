@@ -4,6 +4,7 @@ DataAnalytics Projects
 Este portafolio reúne una selección de proyectos que he desarrollado en el campo del análisis de datos.
 
 Todos los trabajos presentes en este repositorio han sido implementados utilizando Python, demostrando mi capacidad para abordar iniciativas significativas en el ámbito de la analítica de datos. Los proyectos están ordenados de manera cronológica inversa; es decir, los más recientes se encuentran al inicio y los más antiguos hacia el final.
+
 ---
 ---
 
@@ -81,7 +82,7 @@ Como analista de datos en una gran tienda online, en colaboracion con el departa
 ---
 ---
 
-## Proyecto 1: analisis_negocio_AB_test
+## Proyecto 1: analisis_negocio
 
 Trabajamos como analista para el operador de telecomunicaciones Megaline. La empresa ofrece a sus clientes dos tarifas de prepago, Surf y Ultimate. El departamento comercial quiere saber cuál de los planes genera más ingresos para ajustar el presupuesto de publicidad.
 
