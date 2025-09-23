@@ -9,7 +9,7 @@ Todos los trabajos presentes en este repositorio han sido implementados utilizan
 ---
 
 ## Proyecto 5: churn_kmeans
-Contexto
+
 La cadena de gimnasios Model Fitness busca implementar una estrategia de interacción con clientes basada en análisis de datos para reducir la tasa de abandono.
 
 Planteamiento del Problema:
