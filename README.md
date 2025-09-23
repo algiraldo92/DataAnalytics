@@ -1,31 +1,37 @@
 # Data_Analytics
 DataAnalytics Projects
 
-En este portafolio puedes encontrar algunos de los proyectos que he realizado para el área de data analytics.
+Este portafolio reúne una selección de proyectos que he desarrollado en el campo del análisis de datos.
 
-Este repositorio está realizado en el lenguaje de programación de **Python** y es una vista hacia el potencial y las capacidades que poseo para realizar proyectos importantes en el área de la analítica de datos. El orden del portafolio es inverso, esto quiere decir que podrás ver los proyectos más recientes primero y los proyectos más antiguos al final de la hoja.
-
+Todos los trabajos presentes en este repositorio han sido implementados utilizando Python, demostrando mi capacidad para abordar iniciativas significativas en el ámbito de la analítica de datos. Los proyectos están ordenados de manera cronológica inversa; es decir, los más recientes se encuentran al inicio y los más antiguos hacia el final.
 ---
 ---
 
-## Proyecto 5: Clusters para segmentar los clientes con mas probabilidad de abanodono
+## Proyecto 5: churn_kmeans
+Contexto
+La cadena de gimnasios Model Fitness busca implementar una estrategia de interacción con clientes basada en análisis de datos para reducir la tasa de abandono.
 
-La cadena de gimnasios Model Fitness está desarrollando una estrategia de interacción con clientes basada en datos analíticos.
+Planteamiento del Problema:
+La rotación de clientes es uno de los principales desafíos en servicios como los gimnasios. Identificar cuándo un cliente ha dejado de usar el servicio no siempre es evidente. Mientras que algunas cancelaciones son explícitas (rescisión de contrato), otras son implícitas (clientes que dejan de asistir sin cancelar formalmente).
 
-Uno de los problemas más comunes que enfrentan los gimnasios y otros servicios es la pérdida de clientes. ¿Cómo descubres si un/a cliente ya no está contigo? Puedes calcular la pérdida en función de las personas que se deshacen de sus cuentas o no renuevan sus contratos. Sin embargo, a veces no es obvio que un/a cliente se haya ido: puede que se vaya de puntillas.
+Definición de Abandono:
+Para este proyecto, se define un cliente como "perdido" cuando ha transcurrido un mes completo sin que realice una visita. Si bien pueden existir excepciones (como vacaciones), el patrón típico indica que los clientes que dejan de asistir por este período tienen una probabilidad mínima de retornar.
 
-Los indicadores de pérdida varían de un campo a otro. Si un usuario o una usuaria compra en una tienda en línea con poca frecuencia, pero con regularidad, no se puede decir que ha huido. Pero si durante dos semanas no ha abierto un canal que se actualiza a diario, es motivo de preocupación: es posible que tu seguidor o seguidor/a se haya aburrido y te haya abandonado.
+Objetivo del Análisis:
+Model Fitness ha digitalizado los perfiles de sus clientes. El objetivo de este proyecto es:
 
-En el caso de un gimnasio, tiene sentido decir que un/a cliente se ha ido si no viene durante un mes. Por supuesto, es posible que estén en Cancún y retomen sus visitas cuando regresen, pero ese no es un caso típico. Por lo general, si un/a cliente se une, viene varias veces y luego desaparece, es poco probable que regrese.
+Analizar los datos de comportamiento y perfil de los clientes.
 
-Con el fin de combatir la cancelación, Model Fitness ha digitalizado varios de sus perfiles de clientes. Tu tarea consiste en analizarlos y elaborar una estrategia de retención de clientes.
+Identificar segmentos con alta probabilidad de abandono mediante técnicas de clustering.
+
+Proponer estrategias específicas de retención para cada segmento identificado.
 
 [Ver Proyecto](https://github.com/algiraldo92/DataAnalytics/blob/main/Projects/Clusters.ipynb)
 
 ---
 ---
 
-## Proyecto 4: Marketing Cohortes
+## Proyecto 4: analisis_cohortes_marketing
 
 Te han ofrecido hacer prácticas en el departamento de analítica de Showz, una empresa de venta de entradas de eventos. Tu primera tarea es ayudar a optimizar los gastos de marketing.
 Cuentas con:
@@ -46,7 +52,7 @@ Lo que vas a investigar:
 ---
 ---
 
-## Proyecto 3: Funnel (Tests_A/B)
+## Proyecto 3: ab_testing_app_funnel
 
 Como analista debes investigar el comportamiento del usuario para la aplicación de la empresa.
 
@@ -62,7 +68,7 @@ Los usuarios se dividen en tres grupos: dos grupos de control obtienen las fuent
 ---
 ---
 
-## Proyecto 2: Tienda Online (Tests_A/B)
+## Proyecto 2: analisis_negocio_AB_test
 
 Como analista de datos en una gran tienda online, en colaboracion con el departamento de marketing se necesita identificar y priorizar una serie de hipótesis orientadas a aumentar los ingresos. El objetivo principal de este proyecto es validar científicamente la efectividad de los cambios propuestos mediante la ejecución de una prueba A/B controlada. El foco esta en determinar si las modificaciones implementadas en el grupo de tratamiento (Grupo B) generaban una mejora significativa en las métricas clave de negocio, como los ingresos acumulados, el tamaño promedio de pedido y la tasa de conversión, en comparación con el grupo de control (Grupo A)
 
@@ -75,7 +81,7 @@ Como analista de datos en una gran tienda online, en colaboracion con el departa
 ---
 ---
 
-## Proyecto 1: Megaline Telecom
+## Proyecto 1: analisis_negocio_AB_test
 
 Trabajamos como analista para el operador de telecomunicaciones Megaline. La empresa ofrece a sus clientes dos tarifas de prepago, Surf y Ultimate. El departamento comercial quiere saber cuál de los planes genera más ingresos para ajustar el presupuesto de publicidad.
 
